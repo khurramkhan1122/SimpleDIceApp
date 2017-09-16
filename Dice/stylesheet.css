@@ -1,0 +1,21 @@
+body{
+    background-color: lightgray;
+    text-align: center;
+    
+}
+
+
+h1{
+
+color: blue;
+text-align: center;
+
+}
+#number{
+    margin: 2px auto;
+    width: 25px;
+ 
+}
+user1{
+    color: blue;
+}
